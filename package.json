@@ -1,11 +1,8 @@
 {
   "name": "@maslick/kameroon",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Kameroon helper library",
   "main": "index.js",
-  "scripts": {
-    "publish": "npm publish --access public"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/maslick/kameroon-lib.git"
