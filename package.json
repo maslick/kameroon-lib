@@ -1,6 +1,6 @@
 {
   "name": "@maslick/kameroon",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "Kameroon helper library with WebAssembly (WASM) resources",
   "main": "index.js",
   "repository": {
